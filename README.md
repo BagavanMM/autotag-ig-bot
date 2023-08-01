@@ -1,5 +1,5 @@
 # giveaway-ig
-here you go akshan
+A bot that autotags people in those instagram giveaway posts
 1. make sure you have a python environment setup
 2. after downloading and unzipping the files go to your command line and navigate to the root director
 3. paste `pip3 install -r requirements.txt` into your terminal to download all the requirements
